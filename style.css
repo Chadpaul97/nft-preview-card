@@ -1,0 +1,52 @@
+body {
+	height: 100vh;
+	margin: 0;
+	padding: 0;
+	background-color: #0c1729;
+}
+
+h3{
+    color: white;
+}
+
+.mainPage{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.content{
+    color: #5e718f;
+    background-color: #15273f;
+    border-radius: 25px;
+    width: 300px;
+    height: 550px;
+}
+
+img{
+    margin: 20px 10px 0px 14px;
+    height: 270px;
+    width: 270px;
+    border-radius: 10px;
+}
+
+#eth{
+    margin: 0;
+    height: 25px;
+    width: 25px;
+}
+
+.textItems{
+    margin-left: 15px;
+}
+
+.description{
+    width: 250px;
+}
+.price{
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
